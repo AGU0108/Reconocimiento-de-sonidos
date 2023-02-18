@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(237, 218, 255);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+.header_div{
+    color: rgb(255, 239, 149);
+    background-color:rgb(240, 255, 218);
+}
+
+.main_div{
+    background-color:white;
+}
+
+
+.main_div button{
+    margin-top: 30px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(200, 255, 255);
+}
